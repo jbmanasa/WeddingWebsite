@@ -1,0 +1,17 @@
+
+*.xml
+*.iml
+*.xml
+.idea/wedding.iml
+.idea/modules.xml
+response/wedding.db
+*.pyc
+wedding/wedding_app/migrations/
+wedding/db.sqlite3
+
+Invitation/Manasa_BHAT.jpeg
+Invitation/.ipynb_checkpoints/sendInvite-checkpoint.ipynb
+
+wedding/wedding/settings.py
+
+.vscode/settings.json
